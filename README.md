@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Allen Reyes
+# 👋 Hi, I'm Bugs
 
 ![Dev Coding](https://github.com/bugsbunny1229/bugsbunny1229/blob/main/dev%20code.gif?raw=true)
 
