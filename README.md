@@ -45,6 +45,9 @@ I'm a Senior Software Engineer with over **7 years** of experience designing and
 
 ---
 
+### Contact info
+ - mbugsbunny1229@gmail.com
+
 > Whether you're launching a new idea or scaling globally, I bring a balance of technical depth and real-world experience to get the job done right.
 
 ---
