@@ -31,6 +31,7 @@ Usually, I work on:
 ### Contact info
  - mbugsbunny1229@gmail.com
 
-> Whether you're launching a new idea or scaling globally, I bring a balance of technical depth and real-world experience to get the job done right.
+<img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/708da570-58b3-486a-a218-3792aab1d7c8" />
+
 
 ---
