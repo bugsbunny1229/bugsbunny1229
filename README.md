@@ -33,9 +33,4 @@ Usually, I work on:
 
 ### Contact info
  - mbugsbunny1229@gmail.com
-
-<img width="260" height="140" alt="image" src="https://github.com/user-attachments/assets/3fadf453-3e05-4c51-a5ec-7dbf79f96272" />
-<img width="260" height="140" alt="image" src="https://github.com/user-attachments/assets/e50a70e1-fca5-45d5-88f8-0abe2c0184d3" />
-<img width="260" height="140" alt="image" src="https://github.com/user-attachments/assets/c7da0057-0aea-4f59-b7fd-171c50920750" />
-
 ---
