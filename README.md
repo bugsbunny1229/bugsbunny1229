@@ -15,7 +15,7 @@ I'm a Senior Software Engineer with over **7 years** of experience designing and
 ---
 Usually, I work on:
        
-       <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/14ac65b2-9fff-4da1-9836-5efa21e9021e" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/14ac65b2-9fff-4da1-9836-5efa21e9021e" />
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/ba27d84f-8e92-4447-8ab6-065918e1856b" />
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/cd887fe8-c03e-4051-a183-ab83353e040e" />
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/a31ae190-5f22-453b-8130-f89eb3fe4ee5" />
