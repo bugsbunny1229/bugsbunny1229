@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Bugs
 
-![Dev Coding](https://github.com/bugsbunny1229/bugsbunny1229/blob/main/dev%20code.gif?raw=true)
+<img width="1600" height="400" alt="image" src="https://github.com/user-attachments/assets/cb30231a-a229-454f-a03a-3a74e0f95675" />
+
 
 **Sr. Software Engineer | GCP Apps & AI-Driven Backends**
 
