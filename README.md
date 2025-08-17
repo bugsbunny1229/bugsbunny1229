@@ -15,7 +15,7 @@ I'm a Senior Software Engineer with over **7 years** of experience designing and
 ---
 Usually, I work on:
        
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/14ac65b2-9fff-4da1-9836-5efa21e9021e" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/14ac65b2-9fff-4da1-9836-5efa21e9021e" />
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/ba27d84f-8e92-4447-8ab6-065918e1856b" />
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/cd887fe8-c03e-4051-a183-ab83353e040e" />
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/a31ae190-5f22-453b-8130-f89eb3fe4ee5" />
@@ -23,8 +23,11 @@ Usually, I work on:
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/851ddb3b-181f-4710-b234-7e89d613fb7e" />
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/7892747d-aed0-4c5a-aa8b-5b9984d2b9e4" />
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/dcf47f98-0d29-4a43-a97b-4eba35eade96" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/340b387b-667f-460f-994c-debeaaebbf6d" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/037880e6-9ada-4573-9b8a-d92ef20c3118" />
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/083955a7-c030-4780-b9de-2403237849c7" />
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/421f8467-91ea-47ab-aacf-a17162c58b32" />
+
 
 ---
 
