@@ -3,13 +3,13 @@
 <img width="1600" height="400" alt="image" src="https://github.com/user-attachments/assets/cb30231a-a229-454f-a03a-3a74e0f95675" />
 
 
-**Sr. Software Engineer | GCP Apps & AI-Driven Backends**
+**Sr. Software Engineer | GCP Apps & AI-Driven Backends**<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+
 
 ---
 
 😊 Hello!  
 Are you building a scalable cloud-native app or an AI-powered backend system? Let’s make it **production-ready**, **secure**, and **fast**.
-
 I'm a Senior Software Engineer with over **7 years** of experience designing and engineering high-performance systems. I specialize in **GCP-native applications**, **AI/ML-integrated backends**, and **robust microservices** that scale seamlessly and securely.
 
 ---
