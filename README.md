@@ -32,5 +32,5 @@ Usually, I work on:
 ---
 
 ### Contact info
- - mbugsbunny1229@gmail.com
+ - <h4>mbugsbunny1229@gmail.com</h4>
 ---
