@@ -15,18 +15,69 @@ I'm a Senior Software Engineer with over **7 years** of experience designing and
 ---
 Usually, I work on:
        
-&nbsp;&nbsp;&nbsp;<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/14ac65b2-9fff-4da1-9836-5efa21e9021e" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/ba27d84f-8e92-4447-8ab6-065918e1856b" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/cd887fe8-c03e-4051-a183-ab83353e040e" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/a31ae190-5f22-453b-8130-f89eb3fe4ee5" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/59b34e64-a9c0-4add-a829-acd8cc0abb2b" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/851ddb3b-181f-4710-b234-7e89d613fb7e" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/7892747d-aed0-4c5a-aa8b-5b9984d2b9e4" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/dcf47f98-0d29-4a43-a97b-4eba35eade96" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/340b387b-667f-460f-994c-debeaaebbf6d" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/037880e6-9ada-4573-9b8a-d92ef20c3118" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/083955a7-c030-4780-b9de-2403237849c7" />
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/421f8467-91ea-47ab-aacf-a17162c58b32" />
+<table align="center">
+<!-- skill -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>Javascript
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
+      <br>REST API
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
+     <td align="center" width="90">
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="cpp" />
+      <br>C++
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
+      <br>GoLang
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
+      <br>PHP
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
+      <br>Ethereum
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
+      <br>Ruby
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
+      <br>Solana
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="java" />
+      <br>java
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+      <br>Angular
+    </td>
+  </tr>
 
 
 ---
