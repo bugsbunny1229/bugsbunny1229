@@ -1,4 +1,6 @@
-# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> I'm Bugs
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤝;I'm+Bugs!💖;Welcome+to+My+GitHub+Profile!;👀+Follow+me+via+Git+👪;" />
+</div>
 
 <img width="1600" height="400" alt="image" src="https://github.com/user-attachments/assets/cb30231a-a229-454f-a03a-3a74e0f95675" />
 
