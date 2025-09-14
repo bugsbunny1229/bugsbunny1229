@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤝;I'm+Bugs!💖;Welcome+to+My+GitHub+Profile!;👀+Follow+me+via+Git+👪;" />
 </div>
 
-
+<a href="https://www.flaticon.com/free-stickers/people" title="people stickers">People stickers created by Stickers - Flaticon</a>
 **Sr. Software Engineer | GCP Apps & AI-Driven Backends**
 
 ---
