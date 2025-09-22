@@ -9,8 +9,8 @@
 
 😊 Hello! 
 
-Are you building a scalable cloud-native app or an AI-powered backend system? Let’s make it **production-ready**, **secure**, and **fast**.
-I'm a Senior Software Engineer with over **7 years** of experience designing and engineering high-performance systems. I specialize in **Blockchain**, **AI/ML-integrated backends**, and **robust microservices** that scale seamlessly and securely.
+Are you building a scalable cloud-native app or an AI-powered backend system? Let’s make it **production-ready**, **secure**, and **fast**. <br>
+I'm a Senior Software Engineer with over **7 years** of experience designing and engineering high-performance systems.<br> I specialize in **Blockchain**, **AI/ML-integrated backends**, and **robust microservices** that scale seamlessly and securely.
 
 ---
 Usually, I work on:
